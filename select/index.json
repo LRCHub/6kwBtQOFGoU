@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "メニメニマニマニ",
+  "base_artist": "高宮なすの(CV:鳴海杏子)",
+  "createdAt": "2025-12-09T09:15:13.727347Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メニメニマニマニ",
+      "artist": "高宮なすの(CV:鳴海杏子)",
+      "has_synced": false,
+      "path": "select/01_メニメニマニマニ_高宮なすの(CV_鳴海杏子).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メニメニマニマニ",
+      "artist": "高宮なすの(CV:鳴海杏子)",
+      "has_synced": true,
+      "path": "select/02_メニメニマニマニ_高宮なすの(CV_鳴海杏子).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メニメニマニマニ",
+      "artist": "高宮なすの(CV:鳴海杏子)",
+      "has_synced": true,
+      "path": "select/03_メニメニマニマニ_高宮なすの(CV_鳴海杏子).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メニメニマニマニ",
+      "artist": "高宮なすの(CV:鳴海杏子)",
+      "has_synced": true,
+      "path": "select/04_メニメニマニマニ_高宮なすの(CV_鳴海杏子).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "メニメニマニマニ",
+      "artist": "鳴海杏子",
+      "has_synced": true,
+      "path": "select/05_メニメニマニマニ_鳴海杏子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メニメニマニマニ",
+      "artist": "高宮なすの(鳴海杏子)",
+      "has_synced": false,
+      "path": "select/pl_01_メニメニマニマニ_高宮なすの(鳴海杏子).txt"
+    }
+  ]
+}
